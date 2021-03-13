@@ -17,7 +17,7 @@
 #include <GL/glew.h>
 #endif
 
-#include <SDL.h>
+#include <SDL2/SDL.h>
 
 #if defined(__EMSCRIPTEN__)
 #include <GLES3/gl3.h>
