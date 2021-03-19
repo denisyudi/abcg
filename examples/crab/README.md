@@ -11,5 +11,5 @@
 ## Considerações
 
 ### A intenção inicial era de apresentar uma animação melhor nos movimentos do caranguejo, sejam nas patas ou nas garras.
-### Além de, ao pressionar a tecla Space, deveria apresentar a animação de "Pegar" da garra.  
+### Além de, ao pressionar a tecla Space, apresentar a animação de "Pegar" da garra.  
 ### Apresentar melhorias nas cores do caranguejo.
