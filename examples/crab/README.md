@@ -3,8 +3,9 @@
 ## Descrição
 
 ### A aplicação consiste na simulação de um caranguejo.
-### A construção dos objetos foi feita utilizando a primitiva GL_TRIANGLES do OpenGL.
 ### O caranguejo se movimenta para os lados utilizando as teclas Left ou A (esquerda) e Right ou D (direita).
+### A construção dos objetos foi feita utilizando a primitiva GL_TRIANGLES do OpenGL.
+
 
 ## Considerações
 
